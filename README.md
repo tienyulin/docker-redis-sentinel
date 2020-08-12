@@ -1,4 +1,5 @@
-# Redis Sentinel 
+# Redis Sentinel
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/tienyu/redis-sentinel)
 
 ## How To Use
 ```bash=
